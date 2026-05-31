@@ -1,0 +1,85 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+eggs/
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+htmlcov/
+
+# Translations
+*.mo
+*.pot
+
+# Django/Flask stuff
+local_settings.py
+db.sqlite3
+*.sqlite3
+instance/
+.webassets-cache
+media/
+staticfiles/
+
+# Environment
+.env
+.env.*
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Logs
+*.log
+logs/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python-specific
+pip-wheel-metadata/
+__pypackages__/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Coverage reports
+coverage.xml
+*.cover
+
+# Mypy
+.mypy_cache/
+
+# Pyre
+.pyre/
+
+# Local development
+*.env.local
